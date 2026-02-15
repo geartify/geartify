@@ -34,6 +34,8 @@ I enjoy exploring how technology evolves and am always curious about what’s ne
 <!--- My social netowrks --->
 ## My Social Network Channels
 
+The list below contains all of my official accounts - If an account is not on this list, then it is likely someone impersonating me.
+
 | Platform | Handle | Followers / Subscribers |
 |----------|--------|------------------------|
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="24"> YouTube | @geartify | [![Geartify YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGh9r209X_GR2-fo5gCtFhA?style=for-the-badge&logo=youtube&logoColor=auto&color=red&label=YouTube)](https://youtube.com/@geartify) |
