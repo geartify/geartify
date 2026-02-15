@@ -36,12 +36,12 @@ I enjoy exploring how technology evolves and am always curious about what’s ne
 
 | Platform | Handle | Followers / Subscribers |
 |----------|--------|------------------------|
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="24"> YouTube | @geartify | [![Geartify YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGh9r209X_GR2-fo5gCtFhA?style=for-the-badge&logo=youtube&logoColor=white&color=red&label=YouTube)](https://youtube.com/@geartify) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24"> Instagram | @geartify_ | [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/geartify_) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="24"> TikTok | @geartify | [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@geartify) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="24"> X (Twitter) | @geartify | [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/geartify) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/patreon.svg" width="24"> Patreon | geartify | [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/geartify) |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" width="24"> Twitch | @geartify | [![Twitch](https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/geartify) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="24"> YouTube | @geartify | [![Geartify YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGh9r209X_GR2-fo5gCtFhA?style=for-the-badge&logo=youtube&logoColor=auto&color=red&label=YouTube)](https://youtube.com/@geartify) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24"> Instagram | @geartify_ | [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=auto)](https://instagram.com/geartify_) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="24"> TikTok | @geartify | [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=auto)](https://tiktok.com/@geartify) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="24"> X (Twitter) | @geartify | [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=twitter&logoColor=auto)](https://twitter.com/geartify) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/patreon.svg" width="24"> Patreon | geartify | [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=auto)](https://www.patreon.com/cw/geartify) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" width="24"> Twitch | @geartify | [![Twitch](https://img.shields.io/badge/Twitch-Follow-9146FF?style=for-the-badge&logo=twitch&logoColor=auto)](https://twitch.tv/geartify) |
 
 ---
 
@@ -51,9 +51,9 @@ Your support helps grow the channel and make more high-quality content. I am tha
 
 You can support my work & geartify project through:
 <!--- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24"> **[GitHub Sponsors](https://github.com/sponsors/YOUR_USERNAME)** - support me directly through GitHub --->
-[![YouTube Membership | Join](https://img.shields.io/badge/YouTube%20Membership-Join-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@geartify/join)
-[![Patreon | Join](https://img.shields.io/badge/Patreon-Join-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/geartify)
-[![Buy Me a Coffee | Join](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Join-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/geartify)
+[![YouTube Membership | Join](https://img.shields.io/badge/YouTube%20Membership-Join-red?style=for-the-badge&logo=youtube&logoColor=auto)](https://www.youtube.com/@geartify/join)
+[![Patreon | Join](https://img.shields.io/badge/Patreon-Join-F96854?style=for-the-badge&logo=patreon&logoColor=auto)](https://www.patreon.com/cw/geartify)
+[![Buy Me a Coffee | Join](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Join-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=auto)](https://buymeacoffee.com/geartify)
 
 ---
 
