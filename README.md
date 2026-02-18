@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header / Banner -->
-![Geartify Banner](https://yt3.googleusercontent.com/tK7KTJvgT5Y7bz-Y0C5W6hz8IRpOL_bhHYowg0mN28mIiZKMWl8G1nY5v_h1q-eCyW5Kk71uQxQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Geartify Banner](https://yt3.googleusercontent.com/HXj-0uDZvH7Z5osEHgMFPWaMj9cRd7ne63ux9jHoLsgpBp5-6See1LQEg1fVSsvLQ47aTX_lJQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 # geartify
 ## Hi there 👋
