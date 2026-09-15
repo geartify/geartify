@@ -38,7 +38,7 @@ The list below contains all of my official accounts - If an account is not on th
 
 | Platform | Handle | Followers / Subscribers |
 |----------|--------|------------------------|
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="24"> YouTube | @geartify | [![Geartify YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGh9r209X_GR2-fo5gCtFhA?style=for-the-badge&logo=youtube&logoColor=auto&color=red&label=YouTube)](https://youtube.com/@geartify) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="24"> YouTube | @geartify | [![Geartify YouTube Subscribers](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@geartify) |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="24"> Instagram | @geartify_ | [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=auto)](https://instagram.com/geartify_) |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="24"> TikTok | @geartify | [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=auto)](https://tiktok.com/@geartify) |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="24"> X (Twitter) | @geartify | [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=twitter&logoColor=auto)](https://twitter.com/geartify) |
